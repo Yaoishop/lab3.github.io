@@ -1,0 +1,82 @@
+.rowhinh {
+    border: 6px solid #c7c7c773;
+}
+h4{
+    text-decoration: line-through;
+}
+.shop h3 {
+    font-size: 1.75rem;
+    color: red;
+  
+    margin-left: 20px;
+}
+.shop h1 {
+    color: black;
+    margin-top: -20px;
+    margin-left: 20px;
+    font-size: 1.25rem;
+}
+.shop h4 {
+
+    margin-left: 20px;
+    font-size: 1.5rem;
+    color: #0000004d;
+}
+.logo{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.nut1 {
+    background: #0000003d;
+    position: relative;
+    display: inline-block;
+    padding: 0.5rem 1.5rem;
+    bottom: 5rem;
+    left: 1rem;
+}
+.nut2 {
+    background: #0000003d;
+    position: relative;
+    display: inline-block;
+    padding: 0.5rem 1.5rem;
+    bottom: 5rem;
+    left: 19rem;
+}
+.shop a {
+    color: #e5e5e5;
+    text-decoration: none;
+}
+ 
+.nut3 {
+    background: #0000006b;
+    position: relative;
+    display: inline-block;
+    padding: 0.25rem 1rem;
+    bottom: -5rem;
+    left: 9rem;
+}
+.sale{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 400px;
+}
+
+.btn-dan:hover{
+color: white;
+background: black
+}
+.btn-dan {
+    position: relative;
+    display: inline-block;
+    padding: 0.5rem 1.5rem;
+    bottom: 30rem;
+    left: 2rem;
+    background: #710808;
+    color: #e5e5e5;
+}
+.icon{
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 450px;
+}
